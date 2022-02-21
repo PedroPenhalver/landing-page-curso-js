@@ -16,6 +16,11 @@
     padding: 10rem var(--gap);
 }
 
+.menu-main-content {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
 .section {
     min-height: 100vh;
 }

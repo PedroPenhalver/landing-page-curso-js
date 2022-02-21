@@ -204,6 +204,7 @@
 
     .menu {
         bottom: 0;
+        max-width: 100%;
     }
 
     .menu-content, .menu-content ul {
@@ -247,4 +248,9 @@
     .menu-spacing {
         display: none;
     }
+
+    h2 {
+        font-size: 5rem;
+    }
+
 }
